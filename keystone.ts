@@ -4,6 +4,7 @@ import{config, createSchema} from '@keystone-next/keystone/schema';
 import { User } from './schemas/User';
 import {withItemData, statelessSessions} from '@keystone-next/keystone/session'
 import { Product } from './schemas/Product';
+import { ProductImage } from './schemas/ProductImage';
 
 
 const databaseURL =
@@ -40,6 +41,7 @@ export default withAuth(
     // to add
     User,
     Product,
+    ProductImage,
   }),
   ui: {
     // show the ui just for the people 

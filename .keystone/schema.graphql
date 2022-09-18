@@ -623,7 +623,10 @@ type Query {
   """The version of the Keystone application serving this API."""
   appVersion: String
   authenticatedItem: AuthenticatedItem
+<<<<<<< HEAD
   validateUserPasswordResetToken(email: String!, token: String!): ValidateUserPasswordResetTokenResult
+=======
+>>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
   keystone: KeystoneMeta!
 }
 
@@ -683,8 +686,11 @@ type Mutation {
   deleteProductImages(ids: [ID!]): [ProductImage]
   authenticateUserWithPassword(email: String!, password: String!): UserAuthenticationWithPasswordResult!
   createInitialUser(data: CreateInitialUserInput!): UserAuthenticationWithPasswordSuccess!
+<<<<<<< HEAD
   sendUserPasswordResetLink(email: String!): SendUserPasswordResetLinkResult
   redeemUserPasswordResetToken(email: String!, token: String!, password: String!): RedeemUserPasswordResetTokenResult
+=======
+>>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
   endSession: Boolean!
 }
 
@@ -719,6 +725,7 @@ input CreateInitialUserInput {
   password: String
 }
 
+<<<<<<< HEAD
 type SendUserPasswordResetLinkResult {
   code: PasswordResetRequestErrorCode!
   message: String!
@@ -749,6 +756,8 @@ enum PasswordResetRedemptionErrorCode {
   TOKEN_REDEEMED
 }
 
+=======
+>>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
 type KeystoneMeta {
   adminMeta: KeystoneAdminMeta!
 }

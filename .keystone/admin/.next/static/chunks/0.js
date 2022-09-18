@@ -1,9 +1,15 @@
 (window["webpackJsonp_N_E"] = window["webpackJsonp_N_E"] || []).push([[0],{
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js":
+<<<<<<< HEAD
 /*!************************************************************************************************************************!*\
   !*** /home/george/Backend-Team2-Sami21/node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js ***!
   \************************************************************************************************************************/
+=======
+/*!*********************************************************************************************************************!*\
+  !*** /home/george/reciclare-backend/node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js ***!
+  \*********************************************************************************************************************/
+>>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

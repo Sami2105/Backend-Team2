@@ -24,10 +24,17 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
+<<<<<<< HEAD
     "/users/[id]": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/users/[id].js"
+=======
+    "/product-images": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/product-images.js"
+>>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
     ]
   },
   "ampFirstPages": []

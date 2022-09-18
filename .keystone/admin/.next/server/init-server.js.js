@@ -94,14 +94,24 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./":
+<<<<<<< HEAD
 /*!***************************************************************************************************************************************************************************!*\
   !*** /home/george/Backend-Team2-Sami21/node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
   \***************************************************************************************************************************************************************************/
+=======
+/*!************************************************************************************************************************************************************************!*\
+  !*** /home/george/reciclare-backend/node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
+  \************************************************************************************************************************************************************************/
+>>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+<<<<<<< HEAD
 eval("__webpack_require__.r(__webpack_exports__);\n\n    \n\n    /* harmony default export */ __webpack_exports__[\"default\"] = (function (ctx) {\n      return Promise.all([])\n    });\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL2hvbWUvZ2VvcmdlL0JhY2tlbmQtVGVhbTItU2FtaTIxL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/MDhmMCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBR0EsSUFBbUI7QUFDbkI7QUFDQSxLQUFLIiwiZmlsZSI6Ii4uLy4uL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/bWlkZGxld2FyZT1vbi1pbml0LXNlcnZlciEuLy5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxuICAgIFxuXG4gICAgZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKGN0eCkge1xuICAgICAgcmV0dXJuIFByb21pc2UuYWxsKFtdKVxuICAgIH1cbiAgIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./\n");
+=======
+eval("__webpack_require__.r(__webpack_exports__);\n\n    \n\n    /* harmony default export */ __webpack_exports__[\"default\"] = (function (ctx) {\n      return Promise.all([])\n    });\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL2hvbWUvZ2VvcmdlL3JlY2ljbGFyZS1iYWNrZW5kL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/NGU4NyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBR0EsSUFBbUI7QUFDbkI7QUFDQSxLQUFLIiwiZmlsZSI6Ii4uLy4uL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/bWlkZGxld2FyZT1vbi1pbml0LXNlcnZlciEuLy5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxuICAgIFxuXG4gICAgZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKGN0eCkge1xuICAgICAgcmV0dXJuIFByb21pc2UuYWxsKFtdKVxuICAgIH1cbiAgIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./\n");
+>>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
 
 /***/ })
 

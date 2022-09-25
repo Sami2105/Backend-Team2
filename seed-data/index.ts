@@ -14,6 +14,7 @@ export async function insertSeedData(ks: any) {
     // eslint-disable-next-line @typescript-eslint/naming-convention
     const { _id } = await mongoose
       .model('ProductImage')
+      .model('ProblemImage')
       .create({ image: product.photo, altText: product.description });
     product.photo = _id;
     await mongoose.model('Product').create(product);

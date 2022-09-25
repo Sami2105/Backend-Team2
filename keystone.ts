@@ -6,10 +6,10 @@ import {withItemData, statelessSessions} from '@keystone-next/keystone/session'
 import { Product } from './schemas/Product';
 import { ProductImage } from './schemas/ProductImage';
 import { insertSeedData } from './seed-data';
-<<<<<<< HEAD
 import { sendPasswordResetEmail } from './lib/mail';
-=======
->>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
+import { Role } from './schemas/Role';
+import { ProblemImage } from './schemas/ProblemImage';
+import { Problem } from './schemas/Problem';
 
 
 const databaseURL =
@@ -28,14 +28,11 @@ const { withAuth } = createAuth({
       fields: ['name', 'email', 'password'],
       // TODO: Add in inital roles here
     },
-<<<<<<< HEAD
     passwordResetLink: {
       async sendToken(args) {
         await sendPasswordResetEmail(args.token, args.identity);
       },
     },
-=======
->>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
   });
 
 export default withAuth(
@@ -61,6 +58,10 @@ export default withAuth(
     User,
     Product,
     ProductImage,
+    Role,
+    Problem,
+    ProblemImage,
+    
   }),
   ui: {
     // show the ui just for the people 

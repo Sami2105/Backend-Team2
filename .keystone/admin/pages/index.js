@@ -30,6 +30,15 @@ export default function Home() {
           ProductImage: _allProductImagesMeta {
             count
           }
+          Role: _allRolesMeta {
+            count
+          }
+          Problem: _allProblemsMeta {
+            count
+          }
+          ProblemImage: _allProblemImagesMeta {
+            count
+          }
         }
       `}
     />

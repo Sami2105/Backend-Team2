@@ -94,15 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/pages/_error.js":
-<<<<<<< HEAD
 /*!*********************************************************************************************************************!*\
   !*** /home/george/Backend-Team2-Sami21/node_modules/@keystone-next/admin-ui/node_modules/next/dist/pages/_error.js ***!
   \*********************************************************************************************************************/
-=======
-/*!******************************************************************************************************************!*\
-  !*** /home/george/reciclare-backend/node_modules/@keystone-next/admin-ui/node_modules/next/dist/pages/_error.js ***!
-  \******************************************************************************************************************/
->>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -112,7 +106,6 @@ eval("\n\nvar _interopRequireDefault = __webpack_require__(/*! @babel/runtime/he
 /***/ }),
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js":
-<<<<<<< HEAD
 /*!*************************************************************************************************************************************************************!*\
   !*** /home/george/Backend-Team2-Sami21/node_modules/@keystone-next/admin-ui/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
   \*************************************************************************************************************************************************************/
@@ -120,15 +113,6 @@ eval("\n\nvar _interopRequireDefault = __webpack_require__(/*! @babel/runtime/he
 /***/ (function(module, exports) {
 
 eval("function _interopRequireDefault(obj) {\n  return obj && obj.__esModule ? obj : {\n    \"default\": obj\n  };\n}\n\nmodule.exports = _interopRequireDefault;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL2hvbWUvZ2VvcmdlL0JhY2tlbmQtVGVhbTItU2FtaTIxL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9ub2RlX21vZHVsZXMvQGJhYmVsL3J1bnRpbWUvaGVscGVycy9pbnRlcm9wUmVxdWlyZURlZmF1bHQuanM/ZmMwMyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBOztBQUVBIiwiZmlsZSI6Ii4uLy4uL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9ub2RlX21vZHVsZXMvQGJhYmVsL3J1bnRpbWUvaGVscGVycy9pbnRlcm9wUmVxdWlyZURlZmF1bHQuanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJmdW5jdGlvbiBfaW50ZXJvcFJlcXVpcmVEZWZhdWx0KG9iaikge1xuICByZXR1cm4gb2JqICYmIG9iai5fX2VzTW9kdWxlID8gb2JqIDoge1xuICAgIFwiZGVmYXVsdFwiOiBvYmpcbiAgfTtcbn1cblxubW9kdWxlLmV4cG9ydHMgPSBfaW50ZXJvcFJlcXVpcmVEZWZhdWx0OyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js\n");
-=======
-/*!**********************************************************************************************************************************************************!*\
-  !*** /home/george/reciclare-backend/node_modules/@keystone-next/admin-ui/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
-  \**********************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-eval("function _interopRequireDefault(obj) {\n  return obj && obj.__esModule ? obj : {\n    \"default\": obj\n  };\n}\n\nmodule.exports = _interopRequireDefault;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL2hvbWUvZ2VvcmdlL3JlY2ljbGFyZS1iYWNrZW5kL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9ub2RlX21vZHVsZXMvQGJhYmVsL3J1bnRpbWUvaGVscGVycy9pbnRlcm9wUmVxdWlyZURlZmF1bHQuanM/MTRhYyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBOztBQUVBIiwiZmlsZSI6Ii4uLy4uL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9ub2RlX21vZHVsZXMvQGJhYmVsL3J1bnRpbWUvaGVscGVycy9pbnRlcm9wUmVxdWlyZURlZmF1bHQuanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJmdW5jdGlvbiBfaW50ZXJvcFJlcXVpcmVEZWZhdWx0KG9iaikge1xuICByZXR1cm4gb2JqICYmIG9iai5fX2VzTW9kdWxlID8gb2JqIDoge1xuICAgIFwiZGVmYXVsdFwiOiBvYmpcbiAgfTtcbn1cblxubW9kdWxlLmV4cG9ydHMgPSBfaW50ZXJvcFJlcXVpcmVEZWZhdWx0OyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js\n");
->>>>>>> 9079ec2d69ebea48917d8a2f4e0027aa2b3a17ab
 
 /***/ }),
 
